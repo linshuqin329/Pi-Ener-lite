@@ -12,4 +12,4 @@
 - 上壳跟底壳使用同一种材料打印，例如PETG
 - 按键帽、电池盖、排针盖建议使用PLA打印
 
-
+![Pi-Ener-lite/image/Pi-Ener-lite  (1).jpg](https://github.com/linshuqin329/Pi-Ener-lite/blob/main/Pi-Ener-lite/3D%E2%80%91printing%20file/case/3mf/Pi-Ener-lite_case-0.png)
