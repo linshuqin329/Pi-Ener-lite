@@ -4,4 +4,4 @@ This UPS is powered by a standard flat‑top 18650 lithium‑ion cell. It seamle
 
 In addition, Pi‑Ener‑lite integrates the fuel gauge chip CW2015 and the RTC real‑time clock chip DS1307. It can measure battery voltage and remaining capacity, and provide RTC timing function for Zero.
 
-![模型预览图](Pi-Ener-lite/image/Pi-Ener-lite  (1).jpg)
+![Pi-Ener-lite]([Pi-Ener-lite/image/Pi-Ener-lite  (1).jpg](https://github.com/linshuqin329/Pi-Ener-lite/blob/main/Pi-Ener-lite/image/Pi-Ener-lite%20%20(1).jpg))
